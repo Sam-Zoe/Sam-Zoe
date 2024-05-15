@@ -49,7 +49,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-TryHackMe-007ACC?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<img src="https://img.shields.io/badge/-TryHackMe-1a1a1a?&style=for-the-badge&logo=tryhackme&logoColor=F652A0" />
+<img src="https://img.shields.io/badge/-Great%20Learning-FF6600?&style=for-the-badge&logo=greatlearning&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cybrary-005a8c?&style=for-the-badge&logo=cybrary&logoColor=white" />
 
 
 
