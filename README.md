@@ -1,4 +1,4 @@
-# Hello, I'm Samuel Kolade
+# Hello, I'm Morakinyo Kolade
 <a href="https://www.linkedin.com/in/samuel-kolade/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
