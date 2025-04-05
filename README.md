@@ -3,7 +3,7 @@
 
 
 
-I am a graduate of Bsc. Computer Science with a profound interest in technology and a dedication to solving complex problems.
+I hold a Bachelor of Science in Computer Science, with a strong interest in technology and a commitment to solving complex problems.
 
 ## Objective
 
